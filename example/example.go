@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/aws/aws-lambda-go/lambda"
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/middleware"
+	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo/v4/middleware"
 	"github.com/vdparikh/wrap"
 )
 
